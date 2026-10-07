@@ -1,6 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jaycanale.com/'
 locale = 'en-us'
-title = 'Welcome to my Photo Gallery'
+title = 'Jay Christopher Images'
 theme = 'gallery'
+copyright = '© Jay Christopher Canale'
+disableKinds = ["taxonomy"]
+cleanDestinationDir = true
 
+
+[params]
+[params.author]
+    email = "jaychristopherimages@jaycanale.com"
+    name = "Jay Christopher Canale"
+  [params.socialIcons]
+    facebook = "https://www.facebook.com/JayCanale67"
+    instagram = "https://www.instagram.com/jaychristopher_wildlife"
+    email = "mailto:jaychristopherimages@jaycanale.com"
+    linkedin = "https://linkedin.com/"
+
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
 

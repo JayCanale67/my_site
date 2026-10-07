@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to my Photo Gallery</title>
+    <title>Welcome... on Jay Christopher Images</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Welcome to my Photo Gallery</description>
+    <description>Recent content in Welcome... on Jay Christopher Images</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <managingEditor>jaychristopherimages@jaycanale.com (Jay Christopher Canale)</managingEditor>
+    <webMaster>jaychristopherimages@jaycanale.com (Jay Christopher Canale)</webMaster>
+    <copyright>© Jay Christopher Canale</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fashion &amp; Beauty</title>
+      <link>http://localhost:1313/fashion-beauty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jaychristopherimages@jaycanale.com (Jay Christopher Canale)</author>
+      <guid>http://localhost:1313/fashion-beauty/</guid>
+        <media:content url="http://localhost:1313/fashion-beauty/DSC_6514-1-2_hu_7712eeec11a79233.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/fashion-beauty/DSC_6514-1-2_hu_7712eeec11a79233.JPG&quot; /&gt;
+          &lt;p&gt;Fashion and Beauty are a powerful form of self-expression. This category documents style through inspiring shots of street fashion, skincare products, avant-garde editorial photographs, and more.&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nature</title>
+      <link>http://localhost:1313/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jaychristopherimages@jaycanale.com (Jay Christopher Canale)</author>
+      <guid>http://localhost:1313/nature/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+    <item>
+      <title>Cats</title>
+      <link>http://localhost:1313/animals/cats/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><author>jaychristopherimages@jaycanale.com (Jay Christopher Canale)</author>
+      <guid>http://localhost:1313/animals/cats/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Dogs</title>
+      <link>http://localhost:1313/animals/dogs/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate><author>jaychristopherimages@jaycanale.com (Jay Christopher Canale)</author>
+      <guid>http://localhost:1313/animals/dogs/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
